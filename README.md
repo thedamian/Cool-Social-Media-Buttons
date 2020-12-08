@@ -4,7 +4,7 @@
 
 [Example](https://thedamian.github.io/Cool-Social-Media-Buttons/)
 
-The script created (and altered) from the ["Web Development" Youtube](https://www.youtube.com/watch?v=P9pi4hq7BBA) channel
+The script created (and altered) from the ["Web Dev" Youtube](https://www.youtube.com/watch?v=P9pi4hq7BBA) channel
 
 
 
