@@ -1,6 +1,7 @@
 # Cool-Social-Media-Buttons
 
-<img src="example.png">
+<img src="example.png" />
+
 [Example](https://thedamian.github.io/Cool-Social-Media-Buttons/)
 
 The script created (and altered) from the "Web Development" Youtube channel
